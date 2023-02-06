@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(80, 71, 245);
+}
+
+h1{
+    background-color: deeppink;
+    color: white;
+}
+
+#label{
+    font-size: 20px;
+    color: black;
+}
+
+#confidence{
+    font-size: 20px;
+    color: black;
+}
+
+#sketchname{
+    font-size: 20px;
+    color: black;
+}
+
+#score{
+font-size: 20px;
+float: left;
+color: black;
+}
+
+#time{
+font-size: 20px;
+float: right;
+color: black;
+}
+
+#stbd{
+font-size: 20px;
+color: black;
+padding-top: 10px;
+}
